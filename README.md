@@ -10,10 +10,9 @@ Nel mio percorso di apprendimento, ho esplorato numerosi argomenti, tra cui:
 
 - **Programmazione orientata agli oggetti (OOP)**: Lavoro con **classi**, **decoratori**, **ereditarietà**, **incapsulamento**, **polimorfismo** e **astrazione** per creare applicazioni modulari e scalabili.
 - **Manipolazione dei dati con pandas**: Uso la libreria **pandas** per analizzare e manipolare grandi volumi di dati, applicando tecniche di aggregazione e creazione di pivot.
-- **Machine Learning e Analisi Predittiva**: Sto lavorando su progetti che utilizzano **scikit-learn** per implementare modelli predittivi, in particolare per la **previsione del churn rate** nel contesto delle telecomunicazioni.
 - **Database**: Ho esperienza nell'interazione con **database MySQL**, comprese operazioni CRUD (Create, Read, Update, Delete) e gestione degli utenti.
 - **Web Development**: Ho studiato **JavaScript** per creare interfacce dinamiche e interattive per il web.
-- **Java**: Ho acquisito familiarità con **Java** e le sue funzionalità per lo sviluppo di applicazioni, in particolare nel contesto della programmazione orientata agli oggetti e dei framework.
+- **Java**: Ho acquisito familiarità con **Java** e le sue funzionalità per lo sviluppo di applicazioni, in particolare nel contesto della programmazione orientata agli oggetti.
 
 ## Progetti in evidenza 🚀
 
