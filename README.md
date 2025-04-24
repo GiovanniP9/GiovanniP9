@@ -9,7 +9,6 @@ Mi chiamo Giovanni, e sono un appassionato di programmazione, con una particolar
 Nel mio percorso di apprendimento, ho esplorato numerosi argomenti, tra cui:
 
 - **Programmazione orientata agli oggetti (OOP)**: Lavoro con **classi**, **decoratori**, **ereditarietà**, **incapsulamento**, **polimorfismo** e **astrazione** per creare applicazioni modulari e scalabili.
-- **Manipolazione dei dati con pandas**: Uso la libreria **pandas** per analizzare e manipolare grandi volumi di dati, applicando tecniche di aggregazione e creazione di pivot.
 - **Database**: Ho esperienza nell'interazione con **database MySQL e PostgreSQL**, comprese operazioni CRUD (Create, Read, Update, Delete).
 - **Web Development**: Ho studiato **JavaScript** per creare interfacce dinamiche e interattive per il web.
 - **Java**: Ho acquisito familiarità con **Java** e le sue funzionalità per lo sviluppo di applicazioni, in particolare nel contesto della programmazione orientata agli oggetti.
