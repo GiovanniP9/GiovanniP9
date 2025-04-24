@@ -1,4 +1,4 @@
-# GiovanniP9 - Profilo GitHub
+# GiovanniP9
 
 Benvenuto nel mio profilo GitHub! 🎉
 
