@@ -10,9 +10,10 @@ Nel mio percorso di apprendimento, ho esplorato numerosi argomenti, tra cui:
 
 - **Programmazione orientata agli oggetti (OOP)**: Lavoro con **classi**, **decoratori**, **ereditarietà**, **incapsulamento**, **polimorfismo** e **astrazione** per creare applicazioni modulari e scalabili.
 - **Manipolazione dei dati con pandas**: Uso la libreria **pandas** per analizzare e manipolare grandi volumi di dati, applicando tecniche di aggregazione e creazione di pivot.
-- **Database**: Ho esperienza nell'interazione con **database MySQL**, comprese operazioni CRUD (Create, Read, Update, Delete) e gestione degli utenti.
+- **Database**: Ho esperienza nell'interazione con **database MySQL e PostgreSQL**, comprese operazioni CRUD (Create, Read, Update, Delete).
 - **Web Development**: Ho studiato **JavaScript** per creare interfacce dinamiche e interattive per il web.
 - **Java**: Ho acquisito familiarità con **Java** e le sue funzionalità per lo sviluppo di applicazioni, in particolare nel contesto della programmazione orientata agli oggetti.
+- **Java Spring**: Sto studiando Java Spring per creare applicazioni web robuste e scalabili.
 
 ## Progetti in evidenza 🚀
 
@@ -28,7 +29,7 @@ Ecco alcuni dei progetti che ho sviluppato e condiviso su GitHub:
 Continuo a migliorare le mie competenze, lavorando su:
 
 - **Sviluppo di applicazioni full-stack**: Voglio approfondire lo sviluppo web full-stack, utilizzando JavaScript (React, Node.js) e integrando SQL per la gestione dei dati. Il mio obiettivo è creare applicazioni web robuste e scalabili.
-- **Sviluppo di applicazioni iOS**: Voglio approfondire la creazione di applicazioni native per dispositivi Apple utilizzando Swift e Xcode, concentrandomi su performance e design.
+- **Sviluppo di applicazioni iOS**: Voglio approfondire la creazione di applicazioni native per dispositivi Apple utilizzando Swift, SpriteKit e Xcode.
 - **Sviluppo di applicazioni mobili**: Voglio esplorare anche altre piattaforme mobili, come Android, con l'obiettivo di creare app che funzionano su più dispositivi.
 - **Sviluppo di siti web**: Voglio perfezionare le mie competenze nello sviluppo web, sia lato front-end che back-end, utilizzando JavaScript (React, Node.js) per creare applicazioni moderne, reattive e scalabili.
   
@@ -41,9 +42,11 @@ Se vuoi collaborare a qualche progetto o se hai domande, non esitare a contattar
 - Java
 - SQL
 - JavaScript
+- Java Spring
 - Pandas
 - Numpy
 - MySQL
+- PostgreSQL
 - Git
 
 Grazie per aver visitato il mio profilo! 👋
