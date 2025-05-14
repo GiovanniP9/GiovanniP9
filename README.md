@@ -18,9 +18,9 @@ Nel mio percorso di apprendimento, ho esplorato numerosi argomenti, tra cui:
 
 Ecco alcuni dei progetti che ho sviluppato e condiviso su GitHub:
 
-- **[Sistema di gestione per ristorante](https://github.com/GiovanniP9/Eser_Ristorante_Repository)**: Un'applicazione Python per la gestione di un ristorante, con funzionalità di login, registrazione e gestione delle vendite.
-- **[Analisi dei dati di vendita dei videogiochi](https://github.com/GiovanniP9/Analisi_Database)**: Un progetto di analisi dei dati che esplora le vendite per regione, anno, piattaforma e altro.
+- **[BeFirstKC GUI for Kaggle Dataset](https://github.com/GiovanniP9/BeFirstKC---GUI-for-Kaggle-Dataset)**: BeFirstKC è un’app desktop basata su PyQt5 che guida gli utenti, anche alle prime armi, attraverso l’intero workflow di una competizione Kaggle:
 - **[Analisi predittiva su churn rate](https://github.com/GiovanniP9/GiovanniPisaniello_DepositoCorsoPython/tree/main/Mercoledi%2023%20Aprile/eser_pandas2)**: Un progetto che utilizza **pandas** e **numpy**,per analizzare i dati dei clienti e prevedere il churn rate di una compagnia di telecomunicazioni.
+- **[Sistema di gestione per ristorante](https://github.com/GiovanniP9/Eser_Ristorante_Repository)**: Un'applicazione Python per la gestione di un ristorante, con funzionalità di login, registrazione e gestione delle vendite.
 - **[Gestione Donut Shop](https://github.com/GiovanniP9/Donut-Shop-Manager---Gestionale-Python)**: Un sistema di gestione per una pasticceria, implementato in Python.
 
 ## Obiettivi futuri 🎯
